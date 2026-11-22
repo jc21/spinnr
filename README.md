@@ -1,4 +1,6 @@
-# Spinnr - Spin the Wheel
+# [Spinnr - Spin the Wheel](https://spinnr.jc21.com)
+
+<img src="https://spinnr.jc21.com/github.png" alt="Example" width="300" />
 
 A browser-only spinner wheel built with React, TypeScript and Vite. No backend — wheel options, sound preference and recent winners are stored in `localStorage`.
 
